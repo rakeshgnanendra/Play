@@ -36,13 +36,9 @@ export default class ProductList extends Component {
         </div>
 <div className="App">
   <AliceCarousel infinite disableDotsControls disableButtonsControls autoPlay autoPlayInterval="3000">
-    <img src="img/Bannercake2.png" className="sliderimg"/>
-    <img src="img/Bannerplant2.png" className="sliderimg"/>
-    <img src="img/Bannercake1.png" className="sliderimg"/>
-    <img src="img/Bannerflower2.jpg" className="sliderimg"/>
-    <img src="img/Bannerplant1.png" className="sliderimg"/>
-    <img src="img/Bannerflower3.jpg" className="sliderimg"/>    
-    <img src="img/Bannerplant3.png" className="sliderimg"/>      
+    <img src="https://img.floweraura.com/sites/default/files/combos%20for%20cakes%20landing%20page.jpg" />
+    <img src="https://img.floweraura.com/sites/default/files/birthday_cake_landing_page_d%20(1).jpg" /> 
+    <img src="https://img.floweraura.com/sites/default/files/exotic_flowers_landing_page_d.jpg" />      
   </AliceCarousel>
 </div>
         <div className="py-3">

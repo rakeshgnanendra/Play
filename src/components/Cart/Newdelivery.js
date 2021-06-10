@@ -28,8 +28,10 @@ export default function EmptyCart() {
 <p>Last Name<span>*</span></p>
  <input type="text"/>
 </div>
+
 </div>
 </div>
+
 <div class="checkout__input">
 <p>Country<span>*</span></p>
 <input type="text"/>

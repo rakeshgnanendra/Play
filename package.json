@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Fncteam.github.io/Fncdemo",
+  "homepage": "https://Fncteam.github.io/flower-shop-master",
   "name": "react-ecommerce",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +10,8 @@
     "react-paypal-express-checkout": "^1.0.5",
     "react-router-dom": "^5.2.0",
     "react-scripts": "2.1.8",
-    "styled-components": "^4.2.0"
+    "styled-components": "^4.2.0",
+    "yarn": "^1.22.10"
   },
   "scripts": {
     "predeploy": "npm run build",
